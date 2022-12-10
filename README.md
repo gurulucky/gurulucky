@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 - 💭 Pronouns: she/her
 - 📫 E-mail: [guruluckystacker@gmail.com](mailto:guruluckystacker@gmail.com)
 - 💬 Telegram: [@guruman0606](https://t.me/guruman0606)
-- 📣 Babel: `cmn`, `en`, `yue` (L1), `zh-Hans`, `zh-Hant`
+- 💬 Skype: live:.cid.b0146ae91c063d15
